@@ -1,0 +1,27 @@
+h1 {
+    color: #14479a;
+    border: 15px; border-style: double;
+    border-color: #14479a;
+    margin-left: 30%;
+    margin-right: 26%;
+    font-size: 90px;
+}
+
+p {
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    color: #14479a;
+    font-size: 30px;
+}
+
+section{
+    background-image: url(https://www.todofondos.net/wp-content/uploads/1920x1080-Pastel-Blue-Fondo-1080p-Fondo-de-movimiento.png); background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border: 20px; border-style: dotted; border-color: #14479a;
+}
+
